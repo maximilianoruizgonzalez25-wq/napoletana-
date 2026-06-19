@@ -1,0 +1,6 @@
+{
+  "name": "Napoletana Trattoria & Pizzería",
+  "description": "Landing page profesional para Napoletana Trattoria & Pizzería en Venezuela, destacando su menú tradicional, fotos de platos exquisitos y un sistema interactivo de reservas online con integración de WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
