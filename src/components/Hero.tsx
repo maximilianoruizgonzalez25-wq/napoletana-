@@ -123,7 +123,8 @@ export default function Hero({ onExploreMenu, onBookTable }: HeroProps) {
             </div>
             <div className="text-left">
               <p className="text-xs text-gray-400 uppercase tracking-widest font-mono font-medium">Horario de Atención</p>
-              <p className="text-sm font-semibold">Mar - Dom: 12:00 PM - 10:00 PM</p>
+              <p className="text-sm font-semibold">Lun - Sáb: 12:00 PM - 10:00 PM</p>
+              <p className="text-sm font-semibold">Dom: 12:00 PM - 8:00 PM</p>
             </div>
           </div>
 

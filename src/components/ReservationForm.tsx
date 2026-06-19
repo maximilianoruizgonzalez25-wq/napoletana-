@@ -218,8 +218,8 @@ export default function ReservationForm({
                       <Clock size={16} className="text-[#008C45] mt-0.5 animate-pulse" />
                       <div>
                         <p className="font-bold text-gray-200">Horarios Disponibles</p>
-                        <p className="text-gray-400 font-mono mt-0.5">Almuerzos: 12:00 PM - 3:30 PM</p>
-                        <p className="text-gray-400 font-mono">Cenas: 6:00 PM - 10:00 PM</p>
+                        <p className="text-gray-400 font-mono mt-0.5">Lun - Sáb: 12:00 PM - 10:00 PM</p>
+                        <p className="text-gray-400 font-mono">Dom: 12:00 PM - 8:00 PM</p>
                       </div>
                     </div>
 
